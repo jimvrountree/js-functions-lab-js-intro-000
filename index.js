@@ -8,4 +8,3 @@ function happyHolidaysTo(Danforth){
 function happyHolidayTo(Halloween, Danforth){
   return(`Happy ${Halloween}, ${Danforth}!`)
 }
-
