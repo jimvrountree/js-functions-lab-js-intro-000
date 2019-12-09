@@ -1,5 +1,4 @@
 // write your code below!
-function happyHolidays(string) {
-  if (string === string.toLowerCase())
+function happyHolidays(){
+  return("Happy holidays!")
 }
-  return "Happy holidays!"
