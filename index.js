@@ -8,7 +8,7 @@ function happyHolidaysTo(Danforth){
 function happyHolidayTo(Halloween, Danforth){
   return(`Happy ${Halloween}, ${Danforth}!`)
 }
-function holidayCountdown(12, Christmas){
+function holidayCountdown(Christmas, 12){
   return (`It's ${12} days until ${Christmas}!`)
 
 }
