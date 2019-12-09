@@ -11,4 +11,3 @@ function happyHolidayTo(Halloween, Danforth){
 function holidayCountdown(Halloween, 20){
   return(`It's ${20} days until ${Halloween}!`)
 }
-
